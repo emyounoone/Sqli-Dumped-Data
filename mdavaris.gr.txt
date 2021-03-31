@@ -1,6 +1,6 @@
 web-site: http://mdavaris.gr
 vulnerabilitiy: http://www.mdavaris.gr/productview.php?id=0
-admin: coludnt find
+admin: found the following results: http://mdavaris.gr/logon.php  http://mdavaris.gr/cgi-bin  http://mdavaris.gr/files  http://mdavaris.gr/modules  http://mdavaris.gr/js  http://mdavaris.gr/images  http://mdavaris.gr/video  http://mdavaris.gr/css  http://mdavaris.gr/plugins  http://mdavaris.gr/photogallery  http://mdavaris.gr/media  http://mdavaris.gr/resources  http://mdavaris.gr/ecommerce  http://mdavaris.gr/photos total progress: 7331
 
 Dumped:
 -----------+----------+----+---------+---------+------------+-------+----------+

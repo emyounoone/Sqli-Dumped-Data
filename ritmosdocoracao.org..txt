@@ -1,0 +1,12 @@
+Web-site: https://ritmosdocoracao.org.br
+vulnerability:https://ritmosdocoracao.org.br/detalhe-projeto.php?Id=8
+
+
+
+Dumped:
++--------------------------------+-------------------+----------------------------------+----+
+| Email                          | Nome              | Senha                            | Id |
++--------------------------------+-------------------+----------------------------------+----+
+| contato@ritmosdocoracao.org.br | Ritmos do Coração | 0ef27d902db18f36d4e3177b809333fc | 1  |
+| adm@acessoparatodos.com.br     | Acesso Para Todos | bd4cab764d0d764d5913ead5123cc50c | 2  |
++--------------------------------+-------------------+----------------------------------+----+

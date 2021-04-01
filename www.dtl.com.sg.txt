@@ -1,6 +1,6 @@
 web-site: www.dtl.com.sg
 vulnerability: http://www.dtl.com.sg/news.php?id=1
-panel:
+panel: www.dtl.com.sg/cpanel
 
 Dumped:
 +--------------------+----------+---------------+----------------------------------+--------+

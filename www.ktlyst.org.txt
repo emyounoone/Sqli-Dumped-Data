@@ -1,0 +1,8 @@
+web-site: https://www.ktlyst.org
+vulnerablity: https://www.ktlyst.org/resources.php?id=1
+admin://www.ktlyst.org/cpanel
++----+-----------------------+-----------------------+
+| id | pwdusrblue_unmsecflag | usrblue_flgunmsec_sec |
++----+-----------------------+-----------------------+
+| 1  | admin321              | adminktlyst           |
++----+-----------------------+-----------------------+

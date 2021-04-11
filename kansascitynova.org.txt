@@ -1,0 +1,13 @@
+Web-site: http://kansascitynova.org
+Vulnerability: http://kansascitynova.org/news.php?id=42
+Panel: http://kansascitynova.org/admin
+
+Dumped:
++-----------------------+--------------+----------------------------------+
+| email                 | username     | password                         |
++-----------------------+--------------+----------------------------------+
+| jobrielle@gmail.com   | Gministrator | 88a74fd4f4e802d1d122033033205c65 |
+| Robert.Gibbs@kcpd.org | BobGee       | fdfee99269e9398f34c64967e7f4ad75 |
+| noreply@kcnova1.org   | NoVaAdmin1   | 508ed5e5d6b5e65423589924b3a51fc0 |
+| noreply@kcnova2.org   | NoVaAdmin2   | f0b1a3554280429f9110294101b674d0 |
++-----------------------+--------------+----------------------------------+

